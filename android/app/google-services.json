@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "237879960913",
+    "firebase_url": "https://testmap-236118.firebaseio.com",
+    "project_id": "testmap-236118",
+    "storage_bucket": "testmap-236118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237879960913:android:323b837847271cfd",
+        "android_client_info": {
+          "package_name": "com.example.nextexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237879960913-bf8tr22n37pjujpge1rdr5n018gasg5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nextexample",
+            "certificate_hash": "2660d81485dd2600332705b45f786903d0271afb"
+          }
+        },
+        {
+          "client_id": "237879960913-cfl5eb9vmgmah99voglib08prvknnd9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkzLqDB3h28daP789c6PnHN13dXI-WGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237879960913-cfl5eb9vmgmah99voglib08prvknnd9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237879960913-c14v2c4nchsa1m9iidooo6k8ekh9efgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "GULFAR.PolyMap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237879960913:android:9fe0557af64958a6",
+        "android_client_info": {
+          "package_name": "com.example.testmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237879960913-vq1usl9s4qcsm7b6t73c0nf9ql4l7r4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testmap",
+            "certificate_hash": "2660d81485dd2600332705b45f786903d0271afb"
+          }
+        },
+        {
+          "client_id": "237879960913-cfl5eb9vmgmah99voglib08prvknnd9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkzLqDB3h28daP789c6PnHN13dXI-WGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237879960913-cfl5eb9vmgmah99voglib08prvknnd9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237879960913-c14v2c4nchsa1m9iidooo6k8ekh9efgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "GULFAR.PolyMap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237879960913:android:ae4fdc6f2d299a61",
+        "android_client_info": {
+          "package_name": "com.polytech.polymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237879960913-cfl5eb9vmgmah99voglib08prvknnd9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkzLqDB3h28daP789c6PnHN13dXI-WGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237879960913-cfl5eb9vmgmah99voglib08prvknnd9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237879960913-c14v2c4nchsa1m9iidooo6k8ekh9efgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "GULFAR.PolyMap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
